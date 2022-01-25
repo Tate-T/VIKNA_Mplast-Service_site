@@ -191,3 +191,43 @@ img {
   margin: auto 0;
   text-align: center;
 }
+
+/* Балкони */
+
+.balkon-title {
+  font-size: 50px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.balkon-types {
+  display: flex;
+  justify-content: center;
+}
+
+.balkon-type {
+  font-size: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  font-style: italic;
+  text-align: center;
+}
+
+.balkon-type img {
+  margin-top: 20px;
+}
+
+.balkon-backbutton {
+  display: inline-block;
+  color: var(--accent-colour);
+  margin: 15px 40px;
+}
+
+.balcon-france-description {
+  margin: 15px;
+  text-align: justify;
+}
+
+.balcon-france-description_name {
+  font-style: italic;
+}
