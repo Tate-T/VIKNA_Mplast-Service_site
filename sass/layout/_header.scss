@@ -18,7 +18,7 @@
 }
 
 .nav-container {
-    @extend %flex;
+    // @extend %flex;
     &__accent {
         color: $accent-colour;
     }
